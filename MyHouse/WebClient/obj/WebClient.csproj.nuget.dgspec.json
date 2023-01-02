@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hi\\RiderProjects\\MyHouse\\WebClient\\WebClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hi\\NuGet.Config",
+          "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hi\\NuGet.Config",
+          "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hi\\NuGet.Config",
+          "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hi\\RiderProjects\\MyHouse\\WebClient\\WebClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\WebClient\\WebClient.csproj",
+        "projectName": "WebClient",
+        "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\WebClient\\WebClient.csproj",
+        "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\WebClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hi\\NuGet.Config",
+          "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj": {
+                "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Contract\\Contract.csproj"
+              },
+              "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Hi\\RiderProjects\\MyHouse\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "BlazorDateRangePicker": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Blazorise.Bootstrap": {
+              "target": "Package",
+              "version": "[1.1.4.1, )"
+            },
+            "Blazorise.Components": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
+            "Blazorise.Icons.FontAwesome": {
+              "target": "Package",
+              "version": "[1.1.4.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[4.4.4, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Refit.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Volo.Abp.Http.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Hi\RiderProjects\MyHouse\Localization\bin\Debug\net6.0\Localization.deps.json
+C:\Users\Hi\RiderProjects\MyHouse\Localization\bin\Debug\net6.0\Localization.dll
+C:\Users\Hi\RiderProjects\MyHouse\Localization\bin\Debug\net6.0\ref\Localization.dll
+C:\Users\Hi\RiderProjects\MyHouse\Localization\bin\Debug\net6.0\Localization.pdb
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.csproj.AssemblyReference.cache
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.AssemblyInfoInputs.cache
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.AssemblyInfo.cs
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.csproj.CoreCompileInputs.cache
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.dll
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\ref\Localization.dll
+C:\Users\Hi\RiderProjects\MyHouse\Localization\obj\Debug\net6.0\Localization.pdb

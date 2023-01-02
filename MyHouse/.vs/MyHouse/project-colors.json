@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f93fddf-30ac-41d9-ab64-e40733b56abc": {
+      "ProjectGuid": "9f93fddf-30ac-41d9-ab64-e40733b56abc",
+      "DisplayName": "SqlServer",
+      "ColorIndex": 0
+    },
+    "23ef5697-fcd4-4635-87d9-2189d6fbc9dd": {
+      "ProjectGuid": "23ef5697-fcd4-4635-87d9-2189d6fbc9dd",
+      "DisplayName": "DBServer",
+      "ColorIndex": 1
+    },
+    "09937a87-e300-48f4-9070-388202634117": {
+      "ProjectGuid": "09937a87-e300-48f4-9070-388202634117",
+      "DisplayName": "SqlServ4r",
+      "ColorIndex": 2
+    },
+    "48f26336-6b89-4fad-b492-7e9fdf43b88d": {
+      "ProjectGuid": "48f26336-6b89-4fad-b492-7e9fdf43b88d",
+      "DisplayName": "WebClient",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "97eadc46-7753-439a-aead-ea6352f22519": {
+      "ProjectGuid": "97eadc46-7753-439a-aead-ea6352f22519",
+      "DisplayName": "Contract",
+      "ColorIndex": 4
+    },
+    "14650ba5-6733-461e-806e-3396124c30ba": {
+      "ProjectGuid": "14650ba5-6733-461e-806e-3396124c30ba",
+      "DisplayName": "WebApi",
+      "ColorIndex": 5
+    },
+    "0d050bce-1b70-4aca-a9a1-ae7a74c35a93": {
+      "ProjectGuid": "0d050bce-1b70-4aca-a9a1-ae7a74c35a93",
+      "DisplayName": "Application",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
